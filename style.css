@@ -1,0 +1,36 @@
+/* comment in CSS */
+
+/* size of text on the entire webpage is 20px*/
+body{
+font-size: 20px;
+}
+
+
+/*targets all p tags */
+/*
+p{
+ color: red;
+}*/
+
+/*targets paragraph one on my webpage */
+.para1{
+color: #b30000;
+text-shadow: 2px 2px #FF0000;
+}
+
+/*targets paragraph two on my webpage */
+.para2{
+ color:  #00ccff;
+text-decoration:underline;
+}
+
+/*targets paragraph three on my webpage */
+.para3{
+  color: violet;
+}
+
+/*targets the span tags in my html */
+span{
+  color: black;
+  background-color: pink;
+}
